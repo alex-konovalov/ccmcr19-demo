@@ -9,7 +9,9 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+FIXME FIXME FIXME
+
+Now we see the changes me made locally. Let's try to use GitHub web interface.
 
 {% include links.md %}
 
